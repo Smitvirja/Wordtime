@@ -1,0 +1,416 @@
+[
+  {
+    "correct": "preparing",
+    "wrong": "prepering",
+    "meaning": "getting ready for something",
+    "mistake": 0
+  },
+  {
+    "correct": "improve",
+    "wrong": "imporve",
+    "meaning": "to make or get better",
+    "mistake": 0
+  },
+  {
+    "correct": "possible",
+    "wrong": "posibble",
+    "meaning": "able to happen or be done",
+    "mistake": 0
+  },
+  {
+    "correct": "sometimes",
+    "wrong": "some time",
+    "meaning": "occasionally (one word, not two, in this sense)",
+    "mistake": 0
+  },
+  {
+    "correct": "necessary",
+    "wrong": "neccessary",
+    "meaning": "required, essential",
+    "mistake": 0
+  },
+  {
+    "correct": "definitely",
+    "wrong": "definately",
+    "meaning": "without doubt, certainly",
+    "mistake": 0
+  },
+  {
+    "correct": "environment",
+    "wrong": "enviroment",
+    "meaning": "the natural world; surroundings",
+    "mistake": 0
+  },
+  {
+    "correct": "government",
+    "wrong": "goverment",
+    "meaning": "the group that governs a country",
+    "mistake": 0
+  },
+  {
+    "correct": "opportunity",
+    "wrong": "oppurtunity",
+    "meaning": "a chance to do something",
+    "mistake": 0
+  },
+  {
+    "correct": "achieve",
+    "wrong": "acheive",
+    "meaning": "to successfully complete or reach a goal",
+    "mistake": 0
+  },
+  {
+    "correct": "believe",
+    "wrong": "beleive",
+    "meaning": "to accept something as true",
+    "mistake": 0
+  },
+  {
+    "correct": "separate",
+    "wrong": "seperate",
+    "meaning": "to divide or set apart",
+    "mistake": 0
+  },
+  {
+    "correct": "occurred",
+    "wrong": "occured",
+    "meaning": "happened (past tense of occur)",
+    "mistake": 0
+  },
+  {
+    "correct": "recommend",
+    "wrong": "recomend",
+    "meaning": "to suggest something as good or suitable",
+    "mistake": 0
+  },
+  {
+    "correct": "receive",
+    "wrong": "recieve",
+    "meaning": "to get or be given something",
+    "mistake": 0
+  },
+  {
+    "correct": "beginning",
+    "wrong": "begining",
+    "meaning": "the start of something",
+    "mistake": 0
+  },
+  {
+    "correct": "argument",
+    "wrong": "arguement",
+    "meaning": "a reason put forward to support an idea",
+    "mistake": 0
+  },
+  {
+    "correct": "advantage",
+    "wrong": "advantege",
+    "meaning": "a benefit or favorable factor",
+    "mistake": 0
+  },
+  {
+    "correct": "consequence",
+    "wrong": "concequence",
+    "meaning": "a result or effect of an action",
+    "mistake": 0
+  },
+  {
+    "correct": "feathers",
+    "wrong": "feathres",
+    "meaning": "the light, soft covering that grows on birds",
+    "mistake": 0
+  },
+  {
+    "correct": "meeting",
+    "wrong": "meeating",
+    "meaning": "an occasion when people come together to discuss something",
+    "mistake": 0
+  },
+  {
+    "correct": "analyzing",
+    "wrong": "analysing",
+    "meaning": "examining something carefully to understand it",
+    "mistake": 0
+  },
+  {
+    "correct": "believe",
+    "wrong": "belive",
+    "meaning": "to accept something as true",
+    "mistake": 0
+  },
+  {
+    "correct": "opinion",
+    "wrong": "openion",
+    "meaning": "what you think or feel about something",
+    "mistake": 0
+  },
+  {
+    "correct": "benefit",
+    "wrong": "benifit",
+    "meaning": "an advantage or something that helps you",
+    "mistake": 0
+  },
+  {
+    "correct": "loyalty",
+    "wrong": "lolalty",
+    "meaning": "being faithful and supportive to someone or something",
+    "mistake": 0
+  },
+  {
+    "correct": "suitable",
+    "wrong": "sutable",
+    "meaning": "right or appropriate for a particular purpose",
+    "mistake": 0
+  },
+  {
+    "correct": "negotiate",
+    "wrong": "negotiat",
+    "meaning": "to discuss something to reach an agreement",
+    "mistake": 0
+  },
+  {
+    "correct": "promotion",
+    "wrong": "promatione",
+    "meaning": "a move to a higher position or rank; also, advertising something",
+    "mistake": 0
+  },
+  {
+    "correct": "bullying",
+    "wrong": "bulling",
+    "meaning": "repeatedly hurting, threatening, or intimidating someone",
+    "mistake": 0
+  },
+  {
+    "correct": "superiority",
+    "wrong": "supirority",
+    "meaning": "the state of being better or higher than someone or something else",
+    "mistake": 0
+  },
+  {
+    "correct": "personality",
+    "wrong": "persanolity",
+    "meaning": "the way a person thinks, feels, and behaves",
+    "mistake": 0
+  },
+  {
+    "correct": "absence",
+    "wrong": "absuent",
+    "meaning": "the state of not being present",
+    "mistake": 0
+  },
+  {
+    "correct": "traditional",
+    "wrong": "tradisnol",
+    "meaning": "following customs or ways that have existed for a long time",
+    "mistake": 0
+  },
+  {
+    "correct": "requirement",
+    "wrong": "requriment",
+    "meaning": "something that is needed or necessary",
+    "mistake": 0
+  },
+  {
+    "correct": "strength",
+    "wrong": "strenght",
+    "meaning": "the quality of being strong; physical or mental power",
+    "mistake": 0
+  },
+  {
+    "correct": "required",
+    "wrong": "requried",
+    "meaning": "needed or necessary",
+    "mistake": 0
+  },
+  {
+    "correct": "succeed",
+    "wrong": "succed",
+    "meaning": "to achieve what you want or reach a desired result",
+    "mistake": 0
+  },
+  {
+    "correct": "achieve",
+    "wrong": "achive",
+    "meaning": "to successfully reach a goal",
+    "mistake": 0
+  },
+  {
+    "correct": "suitable",
+    "wrong": "suitabl",
+    "meaning": "right or appropriate for a particular purpose",
+    "mistake": 0
+  },
+  {
+    "correct": "decreased",
+    "wrong": "decresed",
+    "meaning": "became smaller, lower, or less",
+    "mistake": 0
+  },
+  {
+    "correct": "begins",
+    "wrong": "begain",
+    "meaning": "starts or comes into existence",
+    "mistake": 0
+  },
+  {
+    "correct": "appointment",
+    "wrong": "appoiement",
+    "meaning": "an arrangement to see somebody at a particular time",
+    "mistake": 0
+  },
+  {
+    "correct": "comparison",
+    "wrong": "comparision",
+    "meaning": "o compare thingins",
+    "mistake": 0
+  },
+  {
+    "correct": "similar",
+    "wrong": "similer",
+    "meaning": "",
+    "mistake": 0
+  },
+  {
+    "correct": "taught",
+    "wrong": "tought",
+    "meaning": "",
+    "mistake": 0
+  },
+  {
+    "correct": "ellaborate",
+    "wrong": "elaborate",
+    "meaning": "",
+    "mistake": 0
+  },
+  {
+    "correct": "benefits",
+    "wrong": "benifits",
+    "meaning": "",
+    "mistake": 0
+  },
+  {
+    "correct": "supporting",
+    "wrong": "supporing",
+    "meaning": "",
+    "mistake": 0
+  },
+  {
+    "correct": "tuition",
+    "wrong": "tution",
+    "meaning": "",
+    "mistake": 0
+  },
+  {
+    "correct": "benefit",
+    "wrong": "benifit",
+    "meaning": "",
+    "mistake": 0
+  },
+  {
+    "correct": "tuition",
+    "wrong": "tution",
+    "meaning": "",
+    "mistake": 0
+  },
+  {
+    "correct": "categorize",
+    "wrong": "catagarize",
+    "meaning": "",
+    "mistake": 0
+  },
+  {
+    "correct": "major",
+    "wrong": "majour",
+    "meaning": "",
+    "mistake": 0
+  },
+  {
+    "correct": "completely",
+    "wrong": "completly",
+    "meaning": "",
+    "mistake": 0
+  },
+  {
+    "correct": "necessary",
+    "wrong": "necessary",
+    "meaning": "",
+    "mistake": 0
+  },
+  {
+    "correct": "required",
+    "wrong": "requred",
+    "meaning": "",
+    "mistake": 0
+  },
+  {
+    "correct": "business",
+    "wrong": "bussines",
+    "meaning": "",
+    "mistake": 0
+  },
+  {
+    "correct": "benefit",
+    "wrong": "benifit",
+    "meaning": "",
+    "mistake": 0
+  },
+  {
+    "correct": "vegetable",
+    "wrong": "vegetable",
+    "meaning": "",
+    "mistake": 0
+  },
+  {
+    "correct": "requried",
+    "wrong": "requri",
+    "meaning": "",
+    "mistake": 0
+  },
+  {
+    "correct": "muscles",
+    "wrong": "mucles",
+    "meaning": "3",
+    "mistake": 0
+  },
+  {
+    "correct": "nutrition",
+    "wrong": "nutrion",
+    "meaning": "",
+    "mistake": 0
+  },
+  {
+    "correct": "pedestrians",
+    "wrong": "pedistrean",
+    "meaning": "",
+    "mistake": 0
+  },
+  {
+    "correct": "experienced",
+    "wrong": "expenreanced",
+    "meaning": "",
+    "mistake": 0
+  },
+  {
+    "correct": "eventually",
+    "wrong": "eventually",
+    "meaning": "",
+    "mistake": 0
+  },
+  {
+    "correct": "fluctuated",
+    "wrong": "fluctuated",
+    "meaning": "",
+    "mistake": 0
+  },
+  {
+    "correct": "considerably",
+    "wrong": "considebrly",
+    "meaning": "",
+    "mistake": 0
+  },
+  {
+    "correct": "permanent",
+    "wrong": "permanent",
+    "meaning": "",
+    "mistake": 0
+  }
+]
